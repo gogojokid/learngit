@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is qucik and simple.
 Git can merge.
+I add a .py file.
